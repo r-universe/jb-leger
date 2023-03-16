@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "blockmodels"]
+	path = blockmodels
+	url = https://github.com/jb-leger/blockmodels
+	shallow = true
+	registered = true
